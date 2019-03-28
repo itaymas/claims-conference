@@ -8,4 +8,4 @@ For the full article: [English version](https://www.haaretz.com/world-news/europ
 
 See the Jupyter Notebook used for the analysis above.
 
-The Claims Conference publishes only one year of data on [its website](http://www.claimscon.org/what-we-do/allocations/grants-database-2017/) (currently 2017). Previous years were scraped from the Wayback Machine. For the analysis itself some data cleaning had to be done, as data is are presented in different currencies and in an unfriendly format. The resulting Grants DB is added here in an Excel file as well, for those who'd like to look at the data themselves.
+The Claims Conference publishes only one year of data on [its website](http://www.claimscon.org/what-we-do/allocations/grants-database-2017/) (currently 2017). Previous years were scraped from the Wayback Machine. For the analysis itself some data cleaning had to be done, as data is are presented in different currencies and in an unfriendly format. The resulting Grants DB is added here as an Excel file as well as a CSV, for those who'd like to look at the data themselves.
